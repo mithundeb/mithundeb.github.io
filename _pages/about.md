@@ -25,9 +25,15 @@ I have worked at the [Center for Applied Coastal Research](https://coastal.udel.
 Recent activities
 ======
 
-Publications (in 2021):
+Selected publications in 2021:
 
 1. Deb, M., Abdolali, A., Kirby, J. T., Shi, F. and Guiteras, S., [“Sensitivity of tidal hydrodynamics to morphology changes in a multi-inlet rapidly eroding salt marsh system: A numerical study”](https://onlinelibrary.wiley.com/doi/10.1002/esp.5308), Earth Surface Processes and Landforms, In Pres, doi: 10.1002/esp.5308 (2021).
 
 2. Yang, Z., Wang, T., Branch, R., Xiao, Z. and Deb, M., [“Tidal stream energy resource characterization in the Salish Sea”](https://www.sciencedirect.com/science/article/abs/pii/S0960148121003827?via%3Dihub), Renewable Energy 172, 188-208 (2021).
+
+Selected conference presentations in 2021:
+
+1. Deb, M., Yang, Z., Wang, T., Sun, N., Balaguru, K., Xu, W., Judi, D. R. and Wigmosta, M.S. (2021) “Sensitivity of compound flooding potential to idealized large-scale tropical cyclone environments”, [AGU Fall Meeting 2021](https://www.agu.org/Fall-Meeting), New Orleans, Louisiana, Dec 13 - 17.
+
+2. Deb, M., Yang, Z. and Wang, T. (2021) “Quantifying tidal current asymmetry in the Salish Sea using a high-resolution 3D model”, [CERF 2021](https://conference.cerf.science/), Seattle, WA, November 8-11.
 
