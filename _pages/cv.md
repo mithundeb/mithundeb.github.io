@@ -11,4 +11,4 @@ redirect_from:
 
 If the embedded PDF below does not load, you can [download](https://drive.google.com/file/d/1n80VRpamGlAfkknHtG_Kd5sN7MCKKPRM/view) it here.
 
-![MithunDebCV](/file/MithunDebCV.pdf)
+[embed](/file/MithunDebCV.pdf)[/embed]
