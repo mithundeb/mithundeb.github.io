@@ -1,17 +1,9 @@
 # main links links
 main:
 
-  - title: "Ongoing projects"
-    url: /projects/
-
-  - title: "Publications"
-    url: /publications/
-
-  - title: "Conference presentations"
-    url: /talks/    
+  - title: "Projects"
+    url: /projects/   
     
   - title: "CV"
     url: /cv/
     
-  - title: "Contact"
-    url: /contact/
