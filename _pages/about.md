@@ -22,7 +22,7 @@ I am originally from Bangladesh, a beautiful; however, extremely susceptible cou
 
 I have worked at the [Center for Applied Coastal Research](https://coastal.udel.edu/), the University of Delaware as a research assistant under the supervision of [Dr. James Kirby](https://www1.udel.edu/kirby/) and received a Doctoral degree in Civil Engineering (Coastal). My graduate research project involved field data processing, and hydrodynamic and wave modeling on the salt marshes in Delaware Bay. The study employed field measurements, data analysis, and numerical modeling to estimate the long-term potential for wind wave-driven shoreline erosion and resulting enlargement of the tidal flats. We also investigated the impact of historical modifications to the greater wetland system and a range of possible remedial steps to restore a healthier marsh environment. Simultaneously, I lead a separate project that included a multi-scale and multi-model approach to identify the wave hazard zones in Bethany Beach, Delaware. At the beginning of my researcher life, I have worked with [Dr. Celso Ferreira](https://fhrl.vse.gmu.edu/) at George Mason University and received an MS degree in Civil Engineering (Water Resources). Our main interests included storm surge modeling in the Bay of Bengal (Bangladesh) and the Chesapeake Bay and assessing land cover effects on coastal inundation. Lastly, I am a proud alumnus of Shahjalal University of Science and Technology, from where I started my journey and dream. 
 
-[UDel Graduate Student Spotlight](https://coastal.udel.edu/2019/12/03/graduate-student-spotlight-mithun-deb/)
+[Mithun Deb - UDel Graduate Student Spotlight](https://coastal.udel.edu/2019/12/03/graduate-student-spotlight-mithun-deb/)
 
 Recent activities
 ======
