@@ -25,5 +25,9 @@ I have worked at the [Center for Applied Coastal Research](https://coastal.udel.
 Recent activities
 ======
 
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
+Publications (in 2021):
+
+1. Deb, M., Abdolali, A., Kirby, J. T., Shi, F. and Guiteras, S., [“Sensitivity of tidal hydrodynamics to morphology changes in a multi-inlet rapidly eroding salt marsh system: A numerical study”](https://onlinelibrary.wiley.com/doi/10.1002/esp.5308), Earth Surface Processes and Landforms, In Pres, doi: 10.1002/esp.5308 (2021).
+
+2. Yang, Z., Wang, T., Branch, R., Xiao, Z. and Deb, M., [“Tidal stream energy resource characterization in the Salish Sea”](https://www.sciencedirect.com/science/article/abs/pii/S0960148121003827?via%3Dihub), Renewable Energy 172, 188-208 (2021).
+
