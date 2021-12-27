@@ -103,7 +103,7 @@ author:
   impactstory      : 
   lastfm           :
   linkedin         : "mithun-deb-65389250"
-  orcid            : "https://orcid.org/my-orcid?orcid=0000-0001-8898-3096"
+  orcid            : "https://orcid.org/0000-0001-8898-3096"
   pinterest        :
   soundcloud       :
   stackoverflow    : 
@@ -178,16 +178,7 @@ collections:
   projects:
     output: true
     permalink: /:collection/:path/
-  publications:
-    output: true
-    permalink: /:collection/:path/
-  talks:
-    output: true
-    permalink: /:collection/:path/
   cv:
-    output: true
-    permalink: /:collection/:path/
-  contact:
     output: true
     permalink: /:collection/:path/
 
@@ -221,23 +212,6 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _publications
-  - scope:
-      path: ""
-      type: publications
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
-  # _talks
-  - scope:
-      path: ""
-      type: talks
-    values:
-      layout: talk
-      author_profile: true
-      share: true
   # _cv
   - scope:
       path: ""
