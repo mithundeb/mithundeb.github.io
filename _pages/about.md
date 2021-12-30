@@ -39,6 +39,6 @@ Selected conference presentations in 2021:
 
 2. Deb, M., Yang, Z. and Wang, T. (2021) “Quantifying tidal current asymmetry in the Salish Sea using a high-resolution 3D model”, [CERF 2021](https://conference.cerf.science/), Seattle, WA, November 8-11.
 
-PNNL - Sequim
+MCRL - PNNL
 ======
 <iframe src="https://mithundeb.github.io/leaflet-map-simple/" width="100%" height="420" frameborder="0" scrolling="no"></iframe>
