@@ -41,4 +41,4 @@ Selected conference presentations in 2021:
 
 PNNL - Sequim
 ======
-<iframe src="https://mithundeb.github.io/leaflet-map-simple/" width="100%" height="400" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://mithundeb.github.io/leaflet-map-simple/" width="100%" height="380" frameborder="0" scrolling="no"></iframe>
