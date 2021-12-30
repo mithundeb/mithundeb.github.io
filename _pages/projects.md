@@ -7,20 +7,20 @@ author_profile: true
 
 {% include base_path %}
 
-### Integrated Coastal Modeling (ICoM)
+## Integrated Coastal Modeling (ICoM)
 ======
 
 
-### Tidal Energy Resource Assessment
+## Tidal Energy Resource Assessment
 ======
 
 
-### Tidal Turbulence Modeling
+## Tidal Turbulence Modeling
 ======
 
 
-### Previous Projects (completed)
+## Previous Projects (completed)
 ======
 
-## Tidal Hydrodynamics in the coastal wetland systems
+### Tidal Hydrodynamics in the coastal wetland systems
 
