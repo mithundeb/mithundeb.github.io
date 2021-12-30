@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: Projects
+title: Projects (this page is currently under development)
 permalink: /projects/
 author_profile: true
 ---
