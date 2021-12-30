@@ -22,7 +22,6 @@ author_profile: true
 ## Previous Projects (completed)
 ### Tidal hydrodynamics in multi-inlet eroding wetland systems
 ### Wind waves potential in salt marsh and mudflat erosion
-### Coastal Flood and Wave Hazard Analysis - Bethany Beach, Delaware 
-### Storm surge modeling and flood risk assessment in the Bay of Bengal region (Bangladesh coast) 
-### Storm surge modeling and flood risk assessment in the Mid-Atlantic region, US 
-
+### Coastal Flood and Wave Hazard Analysis in Bethany Beach, Delaware 
+### Hurricane surge modeling in the Bay of Bengal region (Bangladesh coast) 
+### Hurricane surge modeling in the Mid-Atlantic region, US 
