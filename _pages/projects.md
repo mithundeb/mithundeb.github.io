@@ -22,7 +22,5 @@ Tidal Turbulence Modeling
 Previous Projects (completed)
 ======
 
-## Header two
-1. Tidal Hydrodynamics in the coastal wetland systems
-2. 
-
+1. ## Tidal Hydrodynamics in the coastal wetland systems
+2.
