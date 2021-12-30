@@ -10,11 +10,14 @@ author_profile: true
 Integrated Coastal Modeling (ICoM)
 ======
 
+
 Tidal Energy Resource Assessment
 ======
 
+
 Tidal Turbulence Modeling
 ======
+
 
 Previous Projects (completed)
 ======
