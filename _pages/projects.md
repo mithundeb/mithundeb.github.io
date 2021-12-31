@@ -14,7 +14,7 @@ This following animation shows an example of the integrated model result: maximu
 <video src="/file/FVCOM_Irene_max_surface_large.mp4" controls="controls" style="max-width: 730px;">
 </video>
 
-### To know more about our model setup & recent publications and presentations, you can visit this [page](/project_info/ICoM/).   
+### [Click here to learn more about our model setup and recent publications from this work](/project_info/ICoM/).   
 
 ## Tidal Energy Resource Assessment
 
