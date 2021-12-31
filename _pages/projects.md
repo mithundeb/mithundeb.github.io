@@ -10,7 +10,7 @@ author_profile: true
 ## Integrated Coastal Modeling (ICoM)
 The [Integrated Coastal Modeling (ICoM)](https://icom.pnnl.gov/) is a multi-institutional and multi-disciplinary project led by PNNL and funded by the DOE Office of Science. It has a long-term vision to "deliver a robust predictive understanding of coastal evolution that accounts for the complex, multi-scale interactions among physical, environmental, and human systems". In this project, our group's responsibility is to integrate multiple higher-resolution oceanic and atmospheric models to estimate better the impact of extreme flooding events in the future climate.
 
-<iframe src="/file/FVCOM_Irene_max_surface_large.mp4" width="100%" height="400" frameborder="0" scrolling="no"></iframe>
+<iframe src="/file/FVCOM_Irene_max_surface_large.mp4" width="75%" height="500" frameborder="0" scrolling="no"></iframe>
 
 To know more about our recent publications and presentations, you can visit this [page](/project_info/ICoM/).   
 
