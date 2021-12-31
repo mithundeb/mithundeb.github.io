@@ -40,9 +40,3 @@ Ultimately, the study will highlight the importance of process-based understandi
 9. [NOAA Tides and Currents](https://tidesandcurrents.noaa.gov/)
 10. [USGS River Discharge](https://waterdata.usgs.gov/nwis)
 11. [Livneh CONUS near-surface gridded meteorological data](https://psl.noaa.gov/data/gridded/data.livneh.html)
-
-### Pre and Post-Processing softwares/tools used in the analysis
-
-1. [MATLAB](https://www.mathworks.com/products/matlab.html)
-2. [ArcGIS](https://www.esri.com/en-us/arcgis/about-arcgis/overview)
-3. [SMS 13.1](https://www.aquaveo.com/software/sms-surface-water-modeling-system-introduction)
