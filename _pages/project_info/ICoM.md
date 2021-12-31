@@ -11,9 +11,9 @@ Extreme water levels resulting from a combination of storm-tide flooding and riv
 
 In this study
 
-1. We implemented one-way coupling of a physics-based hydrologic model DHSVM with the 3D ocean model FVCOM to evaluate the importance of higher resolution representation of the storm properties and high spatial details of the river and creek discharge to capture the compound flood characteristics.
+1. We implemented one-way coupling of a physics-based hydrologic model [DHSVM](https://www.pnnl.gov/projects/distributed-hydrology-soil-vegetation-model) with the 3D ocean model [FVCOM](http://fvcom.smast.umassd.edu/fvcom/) to evaluate the importance of higher resolution representation of the storm properties and high spatial details of the river and creek discharge to capture the compound flood characteristics.
 
-2. We used the Risk Analysis Framework for Tropical Cyclones (RAFT) to construct a series of synthetic storms with perturbed SLR and environmental conditions of a Hurricane Irene-like event using reanalysis data and climate model output.
+2. We used the [Risk Analysis Framework for Tropical Cyclones (RAFT)](https://climatemodeling.science.energy.gov/presentations/risk-analysis-framework-tropical-cyclones-raft) to construct a series of synthetic storms with perturbed SLR and environmental conditions of a Hurricane Irene-like event using reanalysis data and climate model output.
 
 3. We will apply the RAFT-generated synthetic storms characterized by varying storm conditions to drive process-based terrestrial-coastal models (DHSVM-FVCOM) to assess how the projected storm conditions and SLR interact with the hydrological and hydrodynamic processes in their control of CF characteristics.
 
