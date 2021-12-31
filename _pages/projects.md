@@ -12,9 +12,9 @@ The [Integrated Coastal Modeling (ICoM)](https://icom.pnnl.gov/) is a multi-inst
 
 <video src="/file/FVCOM_Irene_max_surface_large.mp4" controls="controls" style="max-width: 730px;">
 </video>
+The video shows the maximum water surface elevation (in meters, NAVD88) during Hurricane Irene (2011).
 
-To know more about our recent publications and presentations, you can visit this [page](/project_info/ICoM/).   
-
+To know more about our model setup & recent publications and presentations, you can visit this [page](/project_info/ICoM/).   
 
 ## Tidal Energy Resource Assessment
 
