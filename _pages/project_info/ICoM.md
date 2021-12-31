@@ -26,3 +26,23 @@ Ultimately, the study will highlight the importance of process-based understandi
 2. Deb, M., Yang, Z., Wang, T., Sun, N., Balaguru, K., Xu, W., Judi, D. R. and Wigmosta, M.S. (2021) “Sensitivity of compound flooding potential to idealized large-scale tropical cyclone environments”, [AGU Fall Meeting 2021](https://www.agu.org/Fall-Meeting), New Orleans, Louisiana, Dec 13 - 17.
 
 3. Zang X., Judi, D. R., Li, X., Rakowski, C. L., Sun, N., Yang, Z., Wigmosta, M. S., Wang, T. and Deb, M. (2021) “The effect of DEM resolution and accuracy on urban flooding simulation: a case study in the Philadelphia metropolitan region”, [AGU Fall Meeting 2021](https://www.agu.org/Fall-Meeting), New Orleans, Louisiana, Dec 13 - 17.
+
+### Web links of the public datasets used for model development and validation in this study
+
+1. [ETOPO1 Global Relief Model](https://www.ngdc.noaa.gov/mgg/global/)
+2. [NOAA Coastal Relief Model](https://www.ngdc.noaa.gov/mgg/coastal/crm.html)
+3. [Continuously Updated Digital Elevation Model (CUDEM)](https://coast.noaa.gov/htdata/raster2/elevation/NCEI_ninth_Topobathy_2014_8483/)
+4. [NOAA Continually Updated Shoreline Product (CUSP)](https://shoreline.noaa.gov/data/datasheets/cusp.html)
+5. [GOFS 3.1: 41-layer HYCOM + NCODA Global 1/12° Reanalysis](https://www.hycom.org/data/glbv0pt08/expt-53ptx)
+6. [OSU TPXO Tide Models](https://www.tpxo.net/home)
+7. [NCEP Climate Forecast System Version 2 (CFSv2)](https://rda.ucar.edu/datasets/ds094.0/)
+8. [ERA5-ECMWF reanalysis](https://www.ecmwf.int/en/forecasts/datasets/reanalysis-datasets/era5)
+9. [NOAA Tides and Currents](https://tidesandcurrents.noaa.gov/)
+10. [USGS River Discharge](https://waterdata.usgs.gov/nwis)
+11. [Livneh CONUS near-surface gridded meteorological data](https://psl.noaa.gov/data/gridded/data.livneh.html)
+
+### Pre and Post-Processing softwares/tools used in the analysis
+
+1. [MATLAB](https://www.mathworks.com/products/matlab.html)
+2. [ArcGIS](https://www.esri.com/en-us/arcgis/about-arcgis/overview)
+3. [SMS 13.1](https://www.aquaveo.com/software/sms-surface-water-modeling-system-introduction)
