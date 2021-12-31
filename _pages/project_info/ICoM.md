@@ -18,3 +18,11 @@ In this study
 3. We will apply the RAFT-generated synthetic storms characterized by varying storm conditions to drive process-based terrestrial-coastal models (DHSVM-FVCOM) to assess how the projected storm conditions and SLR interact with the hydrological and hydrodynamic processes in their control of CF characteristics.
 
 Ultimately, the study will highlight the importance of process-based understanding of CF via sensitivity analysis, which can aid local planning and adaptation under a changing climate.
+
+### Conference abstracts and presentations:
+
+1. Deb, M., Yang, Z., Wang, T., Sun, N., Judi, D. R. and Wigmosta, M. S. (2022) “Compound flood modeling in a shallow convergent estuary: An integrated approach using FVCOM and DHSVM”, Abstract accepted, [Ocean Sciences Meeting 2022](https://osm2022.secure-platform.com/a), Honolulu, HI, Feb 27 - Mar 4.
+
+2. Deb, M., Yang, Z., Wang, T., Sun, N., Balaguru, K., Xu, W., Judi, D. R. and Wigmosta, M.S. (2021) “Sensitivity of compound flooding potential to idealized large-scale tropical cyclone environments”, [AGU Fall Meeting 2021](https://www.agu.org/Fall-Meeting), New Orleans, Louisiana, Dec 13 - 17.
+
+3. Zang X., Judi, D. R., Li, X., Rakowski, C. L., Sun, N., Yang, Z., Wigmosta, M. S., Wang, T. and Deb, M. (2021) “The effect of DEM resolution and accuracy on urban flooding simulation: a case study in the Philadelphia metropolitan region”, [AGU Fall Meeting 2021](https://www.agu.org/Fall-Meeting), New Orleans, Louisiana, Dec 13 - 17.
