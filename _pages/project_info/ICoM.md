@@ -1,5 +1,6 @@
 ---
 layout: archive
+title: Integrated Coastal Modeling (ICoM)
 permalink: /project_info/ICoM/
 author_profile: true
 ---
