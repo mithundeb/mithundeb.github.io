@@ -10,9 +10,9 @@ author_profile: true
 ## Integrated Coastal Modeling (ICoM)
 The [Integrated Coastal Modeling (ICoM)](https://icom.pnnl.gov/) is a multi-institutional and multi-disciplinary project led by PNNL and funded by the DOE Office of Science. It has a long-term vision to "deliver a robust predictive understanding of coastal evolution that accounts for the complex, multi-scale interactions among physical, environmental, and human systems". In this project, our group's responsibility is to integrate multiple higher-resolution oceanic and atmospheric models to estimate better the impact of extreme flooding events in the future climate.
 
+This following animation shows the maximum water surface elevation (in meters, NAVD88) during Hurricane Irene (2011)
 <video src="/file/FVCOM_Irene_max_surface_large.mp4" controls="controls" style="max-width: 730px;">
 </video>
-The video shows the maximum water surface elevation (in meters, NAVD88) during Hurricane Irene (2011).
 
 To know more about our model setup & recent publications and presentations, you can visit this [page](/project_info/ICoM/).   
 
