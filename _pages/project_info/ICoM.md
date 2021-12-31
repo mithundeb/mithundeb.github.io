@@ -1,6 +1,6 @@
 ---
 layout: archive
-permalink: /ICoM/
+permalink: /project_info/ICoM/
 author_profile: true
 ---
 
