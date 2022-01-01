@@ -15,12 +15,12 @@ This following animation shows an example of the integrated model result: maximu
 </video>
 
 ### [Click here to learn more about our model setup and recent publications from this work](/project_info/ICoM/)   
-====
 
+<hr style="border:2px solid gray"> </hr>
 ## Tidal Energy Resource Refinement
 In this project, we collaborated with the Georgia Institute of Technology to improve the present-day assumptions in analytic estimates of in-stream tidal power availability. Mainly, we are working to verify and test the widely used Garrett and Cummins (2005) methodology; developed for regional-scale tidal channel energy resource assessments. At the same time, we are also leading another tidal energy modeling case study in Tacoma Narrows, WA, to see how we can apply the International Electrotechnical Commission (IEC) standards for resource characterization to realistic sites.
 
-
+<hr style="border:2px solid gray"> </hr>
 ## Tidal Turbulence Modeling
 
 
