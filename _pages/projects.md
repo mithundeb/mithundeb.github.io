@@ -7,6 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
+<hr style="border:1px solid gray">
 ## Integrated Coastal Modeling (ICoM)
 The [Integrated Coastal Modeling (ICoM)](https://icom.pnnl.gov/) is a multi-institutional and multi-disciplinary project led by PNNL and funded by the DOE Office of Science. It has a long-term vision to <i>"deliver a robust predictive understanding of coastal evolution that accounts for the complex, multi-scale interactions among physical, environmental, and human systems"</i>. In this project, our group's responsibility is to integrate multiple higher-resolution oceanic and atmospheric models to estimate better the impact of extreme flooding events in the future climate.
 
@@ -16,11 +17,11 @@ This following animation shows an example of the integrated model result: maximu
 
 ### [Click here to learn more about our model setup and recent publications from this work](/project_info/ICoM/)   
 
-<hr style="border:2px solid gray"> </hr>
+<hr style="border:1px solid gray">
 ## Tidal Energy Resource Refinement
 In this project, we collaborated with the Georgia Institute of Technology to improve the present-day assumptions in analytic estimates of in-stream tidal power availability. Mainly, we are working to verify and test the widely used Garrett and Cummins (2005) methodology; developed for regional-scale tidal channel energy resource assessments. At the same time, we are also leading another tidal energy modeling case study in Tacoma Narrows, WA, to see how we can apply the International Electrotechnical Commission (IEC) standards for resource characterization to realistic sites.
 
-<hr style="border:2px solid gray"> </hr>
+<hr style="border:1px solid gray">
 ## Tidal Turbulence Modeling
 
 
