@@ -38,8 +38,10 @@ In this project, we collaborated with the Georgia Institute of Technology to imp
   <img width="920" height="600" src="/images/TidalEnergy_CS1.png">
 </p>
 <p align="center">
-  <em>Figure shows the model domain and setup for the IEC case study. In the middle subplot, we can see the Salish Sea Bathymetry and the 19 rivers used to represent the fluvial forcing.</em>
+  <em>Figure shows the model domain and setup for the IEC case study. In the middle subplot, we can see the Salish Sea Bathymetry and the 19 river locations used to represent the fluvial forcing</em>
 </p>
+
+### [Click here to learn more about our model setup and recent publications from this work](/project_info/GCandTN/)
 
 ## Tidal Turbulence Modeling
 <hr style="border:1px solid gray">
