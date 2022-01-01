@@ -29,6 +29,10 @@ In this project, we collaborated with the Georgia Institute of Technology to imp
   <img width="920" height="600" src="/images/TidalEnergy_gatech1.png">
 </p>
 
+<p align="center">
+  <img width="920" height="600" src="/images/TidalEnergy_CS1.png">
+</p>
+
 ## Tidal Turbulence Modeling
 <hr style="border:1px solid gray">
 
