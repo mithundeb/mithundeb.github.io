@@ -27,7 +27,10 @@ In this project, we collaborated with the Georgia Institute of Technology to imp
 
 <p align="center">
   <img width="920" height="600" src="/images/TidalEnergy_gatech1.png">
+  <em>Figure showing the setup of the idealized case used to verify Garrett and Cummins (2005)</em>
 </p>
+
+<hr style="border:0.25px solid gray">
 
 <p align="center">
   <img width="920" height="600" src="/images/TidalEnergy_CS1.png">
