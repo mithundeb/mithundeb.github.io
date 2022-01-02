@@ -46,6 +46,8 @@ In this DOE Water Power Technologies Office funded project, we collaborated with
 ## Tidal Turbulence Modeling
 <hr style="border:1px solid gray">
 
+### [Click here to learn more about our model setup and recent publications from this work](/project_info/TTM/)
+
 ## Previous Projects (completed)
 ### Tidal hydrodynamics in multi-inlet eroding wetland systems
 ### Wind waves potential in salt marsh and mudflat erosion
