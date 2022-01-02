@@ -45,6 +45,14 @@ In this DOE Water Power Technologies Office funded project, we collaborated with
 
 ## Tidal Turbulence Modeling
 <hr style="border:1px solid gray">
+This collaborated project between PNNL and [The National Renewable Energy Laboratory (NREL)](https://www.nrel.gov/) focuses on the field and numerical assessment of tidal turbulence and flow characteristics at Western Passage near Eastport, Maine, a top-ranked U.S. tidal energy site. Field data sets of high temporal resolution have been collected using numerous bottom and ship-mounted instruments, and subsequently, they are used for the 3D ocean model validation. Ultimately, the modeling study aims to help turbine deployment site selection and provide critical flow dynamics information for device design.
+
+<p align="center">
+  <img width="920" height="600" src="/images/WPS_Tidal_Turbulence1.png">
+</p>
+<p align="center">
+  <em>The figure shows our hydrodynamic model domain covering the study area Western Passage, Maine.</em>
+</p>
 
 ### [Click here to learn more about our model setup and recent publications from this work](/project_info/TTM/)
 
