@@ -7,17 +7,13 @@ author_profile: true
 
 {% include base_path %}
 
-Extreme water levels resulting from a combination of storm-tide flooding and riverine flooding, also known as compound flooding (CF), are among the most critical hazards to coastal communities.   
+Nowadays, marine renewable energy is gaining enormous interest as an energy resource alternative to fossil fuels to mitigate the impact of climate change and provide energy security. Among all the available resources, tidal stream energy is one of the most reliable because of its high predictability and ideal locations near coastal communities. Before deploying the tidal turbine farms, it is essential to plan a thorough resource characterization and assessment of the in-stream tidal power. During the resource assessment, it is common to 1) estimate the theoretical power available using different semi-analytical methods (e.g., Garrett and Cummins, 2005); and then use 2) high-resolution tidal hydrodynamic simulations following IEC standards to provide reliable datasets at desired spatial and temporal scales.   
 
-Key summaries from the ongoing work:
+Key objectives of this work:
 
-1.
+1. Use numerical modeling to investigate the accuracy of the Garrett and Cummins (2005) for two independent ocean basins connected by a single channel, and subsequently check the efficacy of the underlying assumptions to improve resource assessment for multi-channel and multi-constituents systems.
 
-2.
-
-3.
-
-Ultimately, the study will highlight the importance of process-based understanding of CF via sensitivity analysis, which can aid local planning and adaptation under a changing climate.
+2. The application of the International Electrotechnical Commission (IEC) standards for tidal stream energy resource characterization. Specific IEC requirements considered here include - model selection (2D vs. 3D), model grid resolution, model validation, simulation period, harmonic forcing, the inclusion of energy extraction, model calibration and validation, and the result analysis.
 
 ### Journal publications:
 
