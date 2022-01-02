@@ -11,7 +11,7 @@ Nowadays, marine renewable energy is gaining enormous interest as an energy reso
 
 Key objectives of this work:
 
-1. Use numerical modeling to investigate the accuracy of the Garrett and Cummins (2005) for two independent ocean basins connected by a single channel, and subsequently check the efficacy of the underlying assumptions to improve resource assessment for multi-channel and multi-constituents systems.
+1. Use numerical modeling to investigate the accuracy of the Garrett and Cummins (2005) for two independent ocean basins connected by a single channel, and subsequently check the efficacy of the underlying assumptions to improve resource assessment for multi-channel and multi-constituent systems.
 
 2. The application of the International Electrotechnical Commission (IEC) standards for tidal stream energy resource characterization. Specific IEC requirements considered here include - model selection (2D vs. 3D), model grid resolution, model validation, simulation period, harmonic forcing, the inclusion of energy extraction, model calibration and validation, and the result analysis.
 
