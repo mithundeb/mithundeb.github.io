@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: Integrated Coastal Modeling (ICoM)
-permalink: /project_info/ICoM/
+title: Tidal Turbulence Modeling
+permalink: /project_info/TTM/
 author_profile: true
 ---
 
