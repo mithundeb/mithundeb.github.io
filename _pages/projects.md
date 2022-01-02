@@ -23,7 +23,7 @@ This following animation shows an example of the integrated model result: maximu
 
 ## Tidal Energy Resource Refinement
 <hr style="border:1px solid gray">
-In this project, we collaborated with the Georgia Institute of Technology to improve the present-day assumptions in analytic estimates of in-stream tidal power availability. Mainly, we are working to verify and test the widely used Garrett and Cummins (2005) methodology; developed for regional-scale tidal channel energy resource assessments. At the same time, we are also leading another tidal energy modeling case study in Tacoma Narrows, WA, to see how we can apply the International Electrotechnical Commission (IEC) standards for resource characterization to realistic sites.
+In this DOE Water Power Technologies Office funded project, we collaborated with the Georgia Institute of Technology to improve the present-day assumptions in analytic estimates of in-stream tidal power availability. Mainly, we are working to verify and test the widely used Garrett and Cummins (2005) methodology; developed for regional-scale tidal channel energy resource assessments. At the same time, we are also leading another tidal energy modeling case study in Tacoma Narrows, WA, to see how we can apply the International Electrotechnical Commission (IEC) standards for resource characterization to realistic sites.
 
 <p align="center">
   <img width="920" height="600" src="/images/TidalEnergy_gatech1.png">
