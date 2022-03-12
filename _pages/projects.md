@@ -58,8 +58,8 @@ This collaborated project between PNNL and [The National Renewable Energy Labora
 
 ## Previous Projects (completed)
 <hr style="border:1px solid gray">
-### Tidal hydrodynamics in multi-inlet eroding wetland systems
-### Wind waves potential in salt marsh and mudflat erosion
-### Coastal Flood and Wave Hazard Analysis in Bethany Beach, Delaware
-### Hurricane surge modeling in the Bay of Bengal region (Bangladesh coast)
-### Hurricane surge modeling in the Mid-Atlantic region, US
+### Tidal hydrodynamics in multi-inlet eroding wetland systems (Funding: Delaware Sea Grant; NFWF, U.S. Department of Interior)
+### Wind waves potential in salt marsh and mudflat erosion (Funding: NFWF, U.S. Department of Interior)
+### Coastal Flood and Wave Hazard Analysis in Bethany Beach, Delaware (Funding: DNREC, State of Delaware)
+### Hurricane surge modeling in the Bay of Bengal region (Funding: George Mason University, NSF - XSEDE)
+### Hurricane surge modeling in the Mid-Atlantic region, US (Funding: George Mason University, NSF - XSEDE)
