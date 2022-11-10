@@ -29,19 +29,13 @@ Recent activities
 
 Selected recent publications:
 
-1. Deb, M., Abdolali, A., Kirby, J. T. and Shi, F. [“Hydrodynamic modeling of a complex salt marsh system: Importance of channel shoreline and bathymetric resolution”](https://www.sciencedirect.com/science/article/pii/S037838392200014X), Coastal Engineering 173, doi: 10.1016/j.coastaleng.2022.104094 (2022).
+1. Deb, M., Kirby, J. T., Abdolali, A. and Shi, F. [“A surface porosity approach for eliminating artificial ponding in coastal salt marsh simulations”](https://www.sciencedirect.com/science/article/pii/S0378383922001594?via%3Dihub), Coastal Engineering, In Pres, doi: 10.1016/j.coastaleng.2022.104246 (2022).
 
-2. Deb, M., Abdolali, A., Kirby, J. T., Shi, F. and Guiteras, S., [“Sensitivity of tidal hydrodynamics to morphology changes in a multi-inlet rapidly eroding salt marsh system: A numerical study”](https://onlinelibrary.wiley.com/doi/10.1002/esp.5308), Earth Surface Processes and Landforms, In Pres, doi: 10.1002/esp.5308 (2021).
+2. Deb, M., Abdolali, A., Kirby, J. T. and Shi, F. [“Hydrodynamic modeling of a complex salt marsh system: Importance of channel shoreline and bathymetric resolution”](https://www.sciencedirect.com/science/article/pii/S037838392200014X), Coastal Engineering 173, doi: 10.1016/j.coastaleng.2022.104094 (2022).
 
-3. Yang, Z., Wang, T., Branch, R., Xiao, Z. and Deb, M., [“Tidal stream energy resource characterization in the Salish Sea”](https://www.sciencedirect.com/science/article/abs/pii/S0960148121003827?via%3Dihub), Renewable Energy 172, 188-208 (2021).
+3. Deb, M., Abdolali, A., Kirby, J. T., Shi, F. and Guiteras, S., [“Sensitivity of tidal hydrodynamics to morphology changes in a multi-inlet rapidly eroding salt marsh system: A numerical study”](https://onlinelibrary.wiley.com/doi/10.1002/esp.5308), Earth Surface Processes and Landforms 47, doi: 10.1002/esp.5308 (2021).
 
-Selected recent conference presentations:
-
-1. Deb, M., Yang, Z., Wang, T., Sun, N., Balaguru, K., Xu, W., Judi, D. R. and Wigmosta, M.S. (2022) “Compound flood modeling in a shallow convergent estuary: An integrated approach using FVCOM and DHSVM”, [Ocean Sciences Meeting 2022](https://www.aslo.org/osm2022/), Virtual, Feb 24 - Mar 4.
-
-2. Deb, M., Yang, Z., Wang, T., Sun, N., Balaguru, K., Xu, W., Judi, D. R. and Wigmosta, M.S. (2021) “Sensitivity of compound flooding potential to idealized large-scale tropical cyclone environments”, [AGU Fall Meeting 2021](https://www.agu.org/Fall-Meeting), New Orleans, Louisiana, Dec 13 - 17.
-
-3. Deb, M., Yang, Z. and Wang, T. (2021) “Quantifying tidal current asymmetry in the Salish Sea using a high-resolution 3D model”, [CERF 2021](https://conference.cerf.science/), Seattle, WA, November 8-11.
+4. Yang, Z., Wang, T., Branch, R., Xiao, Z. and Deb, M., [“Tidal stream energy resource characterization in the Salish Sea”](https://www.sciencedirect.com/science/article/abs/pii/S0960148121003827?via%3Dihub), Renewable Energy 172, 188-208 (2021).
 
 
 MCRL - PNNL
