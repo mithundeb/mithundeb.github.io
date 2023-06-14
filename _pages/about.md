@@ -40,8 +40,6 @@ Selected recent publications:
 5. Deb, M., Abdolali, A., Kirby, J. T., Shi, F. and Guiteras, S., [“Sensitivity of tidal hydrodynamics to morphology changes in a multi-inlet rapidly eroding salt marsh system: A numerical study”](https://onlinelibrary.wiley.com/doi/10.1002/esp.5308), Earth Surface Processes and Landforms 47, doi: 10.1002/esp.5308 (2021).
 
 
-MCRL - PNNL
-=======
-https://www.pnnl.gov/pnnl-sequim
+[MCRL - PNNL](https://www.pnnl.gov/pnnl-sequim)
 
 <!--<iframe src="https://mithundeb.github.io/leaflet-map-simple/" width="100%" height="450" frameborder="0" scrolling="no"></iframe>-->
