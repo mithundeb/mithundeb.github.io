@@ -29,13 +29,15 @@ Recent activities
 
 Selected recent publications:
 
-1. Deb, M., Kirby, J. T., Abdolali, A. and Shi, F. [“A surface porosity approach for eliminating artificial ponding in coastal salt marsh simulations”](https://www.sciencedirect.com/science/article/pii/S0378383922001594?via%3Dihub), Coastal Engineering, In Pres, doi: 10.1016/j.coastaleng.2022.104246 (2022).
+1. Deb, M., Yang, Z., Wang, T. and Kilcher, L. ["Turbulence modeling to aid tidal energy resource characterization in the Western Passage, Maine, USA"](https://www.sciencedirect.com/science/article/pii/S0960148123005645) Renewable Energy, In Pres, https://doi.org/10.1016/j.renene.2023.04.100 (2023)
 
-2. Deb, M., Abdolali, A., Kirby, J. T. and Shi, F. [“Hydrodynamic modeling of a complex salt marsh system: Importance of channel shoreline and bathymetric resolution”](https://www.sciencedirect.com/science/article/pii/S037838392200014X), Coastal Engineering 173, doi: 10.1016/j.coastaleng.2022.104094 (2022).
+2. Deb, M., Sun, N., Yang, Z., Wang, T., Judi, D., Xiao, Z., and Wigmosta, M. S. ["Interacting effects of watershed and coastal processes on the evolution of compound flooding during Hurricane Irene"](https://doi.org/10.1029/2022EF002947) Earth's Future, 11, e2022EF002947. https://doi.org/10.1029/2022EF002947 (2023)
 
-3. Deb, M., Abdolali, A., Kirby, J. T., Shi, F. and Guiteras, S., [“Sensitivity of tidal hydrodynamics to morphology changes in a multi-inlet rapidly eroding salt marsh system: A numerical study”](https://onlinelibrary.wiley.com/doi/10.1002/esp.5308), Earth Surface Processes and Landforms 47, doi: 10.1002/esp.5308 (2021).
+3. Deb, M., Kirby, J. T., Abdolali, A. and Shi, F. [“A surface porosity approach for eliminating artificial ponding in coastal salt marsh simulations”](https://www.sciencedirect.com/science/article/pii/S0378383922001594?via%3Dihub), Coastal Engineering, doi: 10.1016/j.coastaleng.2022.104246 (2022).
 
-4. Yang, Z., Wang, T., Branch, R., Xiao, Z. and Deb, M., [“Tidal stream energy resource characterization in the Salish Sea”](https://www.sciencedirect.com/science/article/abs/pii/S0960148121003827?via%3Dihub), Renewable Energy 172, 188-208 (2021).
+4. Deb, M., Abdolali, A., Kirby, J. T. and Shi, F. [“Hydrodynamic modeling of a complex salt marsh system: Importance of channel shoreline and bathymetric resolution”](https://www.sciencedirect.com/science/article/pii/S037838392200014X), Coastal Engineering 173, doi: 10.1016/j.coastaleng.2022.104094 (2022).
+
+5. Deb, M., Abdolali, A., Kirby, J. T., Shi, F. and Guiteras, S., [“Sensitivity of tidal hydrodynamics to morphology changes in a multi-inlet rapidly eroding salt marsh system: A numerical study”](https://onlinelibrary.wiley.com/doi/10.1002/esp.5308), Earth Surface Processes and Landforms 47, doi: 10.1002/esp.5308 (2021).
 
 
 MCRL - PNNL
