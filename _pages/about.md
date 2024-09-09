@@ -29,16 +29,11 @@ Recent activities
 
 Selected recent publications:
 
-1. Deb, M., Yang, Z., Wang, T. and Kilcher, L. ["Turbulence modeling to aid tidal energy resource characterization in the Western Passage, Maine, USA"](https://www.sciencedirect.com/science/article/pii/S0960148123005645) Renewable Energy, In Pres, https://doi.org/10.1016/j.renene.2023.04.100 (2023)
-
-2. Deb, M., Sun, N., Yang, Z., Wang, T., Judi, D., Xiao, Z., and Wigmosta, M. S. ["Interacting effects of watershed and coastal processes on the evolution of compound flooding during Hurricane Irene"](https://doi.org/10.1029/2022EF002947) Earth's Future, 11, e2022EF002947. https://doi.org/10.1029/2022EF002947 (2023)
-
-3. Deb, M., Kirby, J. T., Abdolali, A. and Shi, F. [“A surface porosity approach for eliminating artificial ponding in coastal salt marsh simulations”](https://www.sciencedirect.com/science/article/pii/S0378383922001594?via%3Dihub), Coastal Engineering, doi: 10.1016/j.coastaleng.2022.104246 (2022).
-
-4. Deb, M., Abdolali, A., Kirby, J. T. and Shi, F. [“Hydrodynamic modeling of a complex salt marsh system: Importance of channel shoreline and bathymetric resolution”](https://www.sciencedirect.com/science/article/pii/S037838392200014X), Coastal Engineering 173, doi: 10.1016/j.coastaleng.2022.104094 (2022).
-
-5. Deb, M., Abdolali, A., Kirby, J. T., Shi, F. and Guiteras, S., [“Sensitivity of tidal hydrodynamics to morphology changes in a multi-inlet rapidly eroding salt marsh system: A numerical study”](https://onlinelibrary.wiley.com/doi/10.1002/esp.5308), Earth Surface Processes and Landforms 47, doi: 10.1002/esp.5308 (2021).
-
+1. Deb, M., Benedict, J. J., Sun, N., Yang, Z., Hetland, R. D., Judi, D. and Wang, T., “Estuarine hurricane wind can intensify surge-dominated extreme water level in shallow and converging coastal systems”, Natural Hazards and Earth System Sciences 24(7), 2461-2479 (2024).
+2. Deb, M., Yang, Z., Haas, K. and Wang, T., “Hydrokinetic tidal energy resource assessment following international electrotechnical commission guidelines”, Renewable Energy 229, 120767 (2024).
+3. Sun, N., Wigmosta, M. S., Yan, H., Eldardiry, H., Yang, Z., Deb, M. and Judi, D., “Amplified extreme floods and shifting flood mechanisms in the Delaware River Basin in future climates”, Earth’s Future 12(3), e2023EF003868 (2024).
+4. Deb, M., Yang, Z., Wang, T. and Kilcher, L., “Turbulence modeling to aid tidal energy resource characterization in the Western Passage, Maine, USA”, Renewable Energy 219, 118694 (2023).
+5. Chen, Y., Shi, F., Kirby, J. T., Liang, B., Wu, G. and Deb, M., “Reducing impacts of artificial ponding in modeling salt marshes using a conductivity-formulated subgrid model”, Estuarine, Coastal and Shelf Science 291, 108441 (2023).
 
 <!--MCRL - PNNL-->
 <!--<iframe src="https://mithundeb.github.io/leaflet-map-simple/" width="100%" height="450" frameborder="0" scrolling="no"></iframe>-->
