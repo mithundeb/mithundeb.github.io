@@ -28,32 +28,25 @@ I have worked at the [Center for Applied Coastal Research](https://coastal.udel.
 ## Selected Recent Publications
 
 1. **Deb, M.**, Sun, N., Yang, Z., Wang, T., Judi, D., Cooper, M. G., & Wigmosta, M. S. (2025).  
-   ["Extreme flood return levels in a US mid-Atlantic estuary using 40-year fluvial-coastal model simulations"](https://doi.org/10.1038/s41597-025-05566-9).  
-   *[Scientific Data](https://www.nature.com/sdata), 12*(1), 1459.*  
+   ["Extreme flood return levels in a US mid-Atlantic estuary using 40-year fluvial-coastal model simulations"](https://doi.org/10.1038/s41597-025-05566-9). Scientific Data, 12 (1), 1459  
 
 2. **Deb, M.**, Yang, Z., & Wang, T. (2025).  
-   ["Characterizing in-stream turbulent flow for tidal energy converter siting in Cook Inlet, Alaska"](https://doi.org/10.1016/j.renene.2025.123345).  
-   *[Renewable Energy](https://www.journals.elsevier.com/renewable-energy), 123345.*  
+   ["Characterizing in-stream turbulent flow for tidal energy converter siting in Cook Inlet, Alaska"](https://doi.org/10.1016/j.renene.2025.123345). Renewable Energy, 123345  
 
 3. Spicer, P., Yang, Z., Wang, T., & **Deb, M.** (2025).  
-   ["Spatially varying seasonal modulation to tidal stream energy potential due to mixed tidal regimes in the Aleutian Islands, AK"](https://doi.org/10.1016/j.renene.2025.123564).  
-   *[Renewable Energy](https://www.journals.elsevier.com/renewable-energy), 123564.*  
+   ["Spatially varying seasonal modulation to tidal stream energy potential due to mixed tidal regimes in the Aleutian Islands, AK"](https://doi.org/10.1016/j.renene.2025.123564). Renewable Energy, 123564 
 
 4. Cooper, M. G., Sun, N., Wigmosta, M. S., Eldardiry, H., **Deb, M.**, Yang, Z., & Judi, D. R. (2025).  
-   ["Enhanced flood synchrony and downstream severity in the Delaware River under rising temperatures"](https://doi.org/10.1038/s43247-025-02243-y).  
-   *[Communications Earth & Environment](https://www.nature.com/commsenv), 6*(1), 296.*  
+   ["Enhanced flood synchrony and downstream severity in the Delaware River under rising temperatures"](https://doi.org/10.1038/s43247-025-02243-y). Communications Earth & Environment, 6 (1), 296 
 
 5. **Deb, M.**, Benedict, J. J., Sun, N., Yang, Z., Hetland, R. D., Judi, D., & Wang, T. (2024).  
-   ["Estuarine hurricane wind can intensify surge-dominated extreme water level in shallow and converging coastal systems"](https://doi.org/10.5194/nhess-24-2461-2024).  
-   *[Natural Hazards and Earth System Sciences](https://nhess.copernicus.org), 24*(7), 2461-2479.*  
+   ["Estuarine hurricane wind can intensify surge-dominated extreme water level in shallow and converging coastal systems"](https://doi.org/10.5194/nhess-24-2461-2024). Natural Hazards and Earth System Sciences, 24 (7), 2461-2479 
 
 6. **Deb, M.**, Yang, Z., Haas, K., & Wang, T. (2024).  
-   ["Hydrokinetic tidal energy resource assessment following international electrotechnical commission guidelines"](https://doi.org/10.1016/j.renene.2024.120767).  
-   *[Renewable Energy](https://www.journals.elsevier.com/renewable-energy), 229*, 120767.*  
+   ["Hydrokinetic tidal energy resource assessment following international electrotechnical commission guidelines"](https://doi.org/10.1016/j.renene.2024.120767). Renewable Energy, 229, 120767  
 
 7. Sun, N., Wigmosta, M. S., Yan, H., Eldardiry, H., Yang, Z., **Deb, M.**, & Judi, D. (2024).  
-   ["Amplified extreme floods and shifting flood mechanisms in the Delaware River Basin in future climates"](https://doi.org/10.1029/2023ef003868).  
-   *[Earth’s Future](https://agupubs.onlinelibrary.wiley.com/journal/23284277), 12*(3), e2023EF003868.*
+   ["Amplified extreme floods and shifting flood mechanisms in the Delaware River Basin in future climates"](https://doi.org/10.1029/2023ef003868). Earth’s Future, 12 (3), e2023EF003868
 
 ### **For more information, please see my [Google Scholar profile](https://scholar.google.com/citations?hl=en&user=IugTLPcAAAAJ&view_op=list_works&sortby=pubdate) here.**
 <!--MCRL - PNNL-->
