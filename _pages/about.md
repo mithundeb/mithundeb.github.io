@@ -24,16 +24,37 @@ I have worked at the [Center for Applied Coastal Research](https://coastal.udel.
 
 [Mithun Deb - UDel Graduate Student Spotlight](https://coastal.udel.edu/2019/12/03/graduate-student-spotlight-mithun-deb/)
 
-Recent activities
-======
 
-Selected recent publications:
+### Selected Recent Publications
 
-1. Deb, M., Benedict, J. J., Sun, N., Yang, Z., Hetland, R. D., Judi, D. and Wang, T., “Estuarine hurricane wind can intensify surge-dominated extreme water level in shallow and converging coastal systems”, Natural Hazards and Earth System Sciences 24(7), 2461-2479 (2024).
-2. Deb, M., Yang, Z., Haas, K. and Wang, T., “Hydrokinetic tidal energy resource assessment following international electrotechnical commission guidelines”, Renewable Energy 229, 120767 (2024).
-3. Sun, N., Wigmosta, M. S., Yan, H., Eldardiry, H., Yang, Z., Deb, M. and Judi, D., “Amplified extreme floods and shifting flood mechanisms in the Delaware River Basin in future climates”, Earth’s Future 12(3), e2023EF003868 (2024).
-4. Deb, M., Yang, Z., Wang, T. and Kilcher, L., “Turbulence modeling to aid tidal energy resource characterization in the Western Passage, Maine, USA”, Renewable Energy 219, 118694 (2023).
-5. Chen, Y., Shi, F., Kirby, J. T., Liang, B., Wu, G. and Deb, M., “Reducing impacts of artificial ponding in modeling salt marshes using a conductivity-formulated subgrid model”, Estuarine, Coastal and Shelf Science 291, 108441 (2023).
+1. **Deb, M.**, Sun, N., Yang, Z., Wang, T., Judi, D., Cooper, M. G., & Wigmosta, M. S. (2025).  
+   ["Extreme flood return levels in a US mid-Atlantic estuary using 40-year fluvial-coastal model simulations"](10.1038/s41597-025-05566-9).  
+   *[Scientific Data](https://www.nature.com/sdata), 12*(1), 1459.*  
+
+2. **Deb, M.**, Yang, Z., & Wang, T. (2025).  
+   ["Characterizing in-stream turbulent flow for tidal energy converter siting in Cook Inlet, Alaska"](10.1016/j.renene.2025.123345).  
+   *[Renewable Energy](https://www.journals.elsevier.com/renewable-energy), 123345.*  
+
+3. Spicer, P., Yang, Z., Wang, T., & **Deb, M.** (2025).  
+   ["Spatially varying seasonal modulation to tidal stream energy potential due to mixed tidal regimes in the Aleutian Islands, AK"](10.1016/j.renene.2025.123564).  
+   *[Renewable Energy](https://www.journals.elsevier.com/renewable-energy), 123564.*  
+
+4. Cooper, M. G., Sun, N., Wigmosta, M. S., Eldardiry, H., **Deb, M.**, Yang, Z., & Judi, D. R. (2025).  
+   ["Enhanced flood synchrony and downstream severity in the Delaware River under rising temperatures"](10.1038/s43247-025-02243-y).  
+   *[Communications Earth & Environment](https://www.nature.com/commsenv), 6*(1), 296.*  
+
+5. **Deb, M.**, Benedict, J. J., Sun, N., Yang, Z., Hetland, R. D., Judi, D., & Wang, T. (2024).  
+   ["Estuarine hurricane wind can intensify surge-dominated extreme water level in shallow and converging coastal systems"](10.5194/nhess-24-2461-2024).  
+   *[Natural Hazards and Earth System Sciences](https://nhess.copernicus.org), 24*(7), 2461-2479.*  
+
+6. **Deb, M.**, Yang, Z., Haas, K., & Wang, T. (2024).  
+   ["Hydrokinetic tidal energy resource assessment following international electrotechnical commission guidelines"](10.1016/j.renene.2024.120767).  
+   *[Renewable Energy](https://www.journals.elsevier.com/renewable-energy), 229*, 120767.*  
+
+7. Sun, N., Wigmosta, M. S., Yan, H., Eldardiry, H., Yang, Z., **Deb, M.**, & Judi, D. (2024).  
+   ["Amplified extreme floods and shifting flood mechanisms in the Delaware River Basin in future climates"](10.1029/2023ef003868).  
+   *[Earth’s Future](https://agupubs.onlinelibrary.wiley.com/journal/23284277), 12*(3), e2023EF003868.*
+
 
 <!--MCRL - PNNL-->
 <!--<iframe src="https://mithundeb.github.io/leaflet-map-simple/" width="100%" height="450" frameborder="0" scrolling="no"></iframe>-->
