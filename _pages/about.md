@@ -55,6 +55,6 @@ I have worked at the [Center for Applied Coastal Research](https://coastal.udel.
    ["Amplified extreme floods and shifting flood mechanisms in the Delaware River Basin in future climates"](https://doi.org/10.1029/2023ef003868).  
    *[Earth’s Future](https://agupubs.onlinelibrary.wiley.com/journal/23284277), 12*(3), e2023EF003868.*
 
-
+### **For more information, please see my [Google Scholar profile](https://scholar.google.com/citations?hl=en&user=IugTLPcAAAAJ&view_op=list_works&sortby=pubdate) here.**
 <!--MCRL - PNNL-->
 <!--<iframe src="https://mithundeb.github.io/leaflet-map-simple/" width="100%" height="450" frameborder="0" scrolling="no"></iframe>-->
