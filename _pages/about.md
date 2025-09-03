@@ -16,7 +16,7 @@ I am passionate about estuarine hydro-environmental problems and natural hazards
 
 I joined the PNNL [Ocean Dynamics & Modeling](https://www.pnnl.gov/projects/ocean-dynamics-modeling) team as a Postdoctoral RA in August 2020 to conduct a modeling assessment of marine renewable energy in U.S. water. In my ongoing projects, we are simulating the changes in estuarine tidal processes induced by tidal energy extraction in large open water bodies like the Salish Sea, WA, and the Western Passage, ME. This tidal energy resource modeling project is funded by the U.S. Department of Energy's Water Power Technologies Office. At the same time, I am also actively working on a multi-institutional project called [Integrated Coastal Modeling (ICoM)](https://icom.pnnl.gov/TheICoMTeam), led by the Pacific Northwest National Laboratory and funded by the DOE Office of Science. In this ICoM project, our coastal modeling team's responsibility is to integrate multiple higher-resolution oceanic and atmospheric models to better project the impact of extreme flooding events in the future climate.
 
-My background and history
+My background
 ======
 I am originally from Bangladesh, a beautiful; however, extremely susceptible country to coastal disasters. It is one of the major factors that always drive my fascination toward coastal hazard-related studies. I dream about contributing my expertise and knowledge to the people living in disaster-prone areas.
 
@@ -50,4 +50,4 @@ I have worked at the [Center for Applied Coastal Research](https://coastal.udel.
 
 ### **For more information, please see my [Google Scholar profile](https://scholar.google.com/citations?hl=en&user=IugTLPcAAAAJ&view_op=list_works&sortby=pubdate) here.**
 <!--MCRL - PNNL-->
-<!--<iframe src="https://mithundeb.github.io/leaflet-map-simple/" width="100%" height="450" frameborder="0" scrolling="no"></iframe>-->
+<iframe src="https://mithundeb.github.io/leaflet-map-simple/" width="100%" height="450" frameborder="0" scrolling="no"></iframe>
